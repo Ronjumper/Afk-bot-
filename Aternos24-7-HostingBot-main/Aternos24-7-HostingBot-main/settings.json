@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "FLY BOT 3000",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "McFlysMC.aternos.me:52628",
+    "port": 52628,
     "version": "",
     "try-creative": false
   },
